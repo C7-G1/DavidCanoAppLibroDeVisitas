@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DavidCanoAppLibroDeVisitas</string>
+    <string name="errorNombre">Este nombre no es correcto</string>
+    <string name="bienvenido">Bienvenido a mi portal</string>
+    <string name="errorVisitantes">Ups, ha surgido un error</string>
+    <string name="errorRegistro">Ups, ha surgido un error</string>
+</resources>
